@@ -19,7 +19,7 @@ namespace ExercicioCalculoIdade
                 Console.WriteLine("Ano de nascimento: ");
                 p.AnoNascimento = Convert.ToInt32(Console.ReadLine());
                 p.ExibirDados();
-                p.
+                //Console.WriteLine(p.Idade);
                 Console.ReadKey();
             }
 

@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\bin\Debug\ExercicioCalculadora2.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\bin\Debug\ExercicioCalculadora2.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\bin\Debug\ExercicioCalculadora2.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\obj\Debug\ExercicioCalculadora2.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\obj\Debug\ExercicioCalculadora2.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\obj\Debug\ExercicioCalculadora2.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\obj\Debug\ExercicioCalculadora2.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculadora2\ExercicioCalculadora2\obj\Debug\ExercicioCalculadora2.pdb
