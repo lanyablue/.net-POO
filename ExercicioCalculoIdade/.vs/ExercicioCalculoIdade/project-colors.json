@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93a52409-aec9-4dd1-9fa3-069b170fbeb7": {
+      "ProjectGuid": "93a52409-aec9-4dd1-9fa3-069b170fbeb7",
+      "DisplayName": "ExercicioCalculoIdade",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

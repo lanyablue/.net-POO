@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\obj\Debug\ExercicioCalculoIdade.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\obj\Debug\ExercicioCalculoIdade.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\obj\Debug\ExercicioCalculoIdade.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\bin\Debug\ExercicioCalculoIdade.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\bin\Debug\ExercicioCalculoIdade.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\bin\Debug\ExercicioCalculoIdade.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\obj\Debug\ExercicioCalculoIdade.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\ExercicioCalculoIdade\ExercicioCalculoIdade\obj\Debug\ExercicioCalculoIdade.pdb
