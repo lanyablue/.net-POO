@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace pooMensagem
 {
     internal class Program
@@ -13,9 +14,9 @@ namespace pooMensagem
             Menssagem msg1, msg2;
             msg1 = new Menssagem();
             //msg1.textoMenssagem = "Olá querida";
-            msg1.setTextoMensagem("Olá querida!");
-            Console.WriteLine(msg1.gettextoMensagem());
-            //msg1.exibirMensagem();
+            msg1.TextoMensagem = "Olá querida";
+            msg1.ExibirMensagem();
+            
 
             //msg2 = new Menssagem();
             //msg2.textoMenssagem = "Buffo querida";

@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\obj\Debug\MensagemPOO2.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\obj\Debug\MensagemPOO2.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\obj\Debug\MensagemPOO2.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\bin\Debug\MensagemPOO2.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\bin\Debug\MensagemPOO2.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\bin\Debug\MensagemPOO2.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\obj\Debug\MensagemPOO2.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\MensagemPOO2\MensagemPOO2\obj\Debug\MensagemPOO2.pdb
