@@ -27,7 +27,7 @@ namespace ExercicioCalculoIdade
 
         // Melhorando o código
 
-        prop   
+        
 
         public void ExibirDados()
         {
