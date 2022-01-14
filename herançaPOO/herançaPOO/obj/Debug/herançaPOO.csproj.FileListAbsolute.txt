@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\obj\Debug\herançaPOO.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\obj\Debug\herançaPOO.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\obj\Debug\herançaPOO.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\bin\Debug\herançaPOO.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\bin\Debug\herançaPOO.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\bin\Debug\herançaPOO.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\obj\Debug\herançaPOO.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\herançaPOO\herançaPOO\obj\Debug\herançaPOO.pdb
