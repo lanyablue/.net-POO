@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\obj\Debug\exercícioCalculoAnimais.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\obj\Debug\exercícioCalculoAnimais.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\obj\Debug\exercícioCalculoAnimais.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\bin\Debug\exercícioCalculoAnimais.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\bin\Debug\exercícioCalculoAnimais.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\bin\Debug\exercícioCalculoAnimais.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\obj\Debug\exercícioCalculoAnimais.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\exercícioCalculoAnimais\exercícioCalculoAnimais\obj\Debug\exercícioCalculoAnimais.pdb
