@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\bin\Debug\pooPokemonAPP.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\bin\Debug\pooPokemonAPP.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\bin\Debug\pooPokemonAPP.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\obj\Debug\pooPokemonAPP.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\obj\Debug\pooPokemonAPP.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\obj\Debug\pooPokemonAPP.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\obj\Debug\pooPokemonAPP.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\pooPokemonAPP\pooPokemonAPP\obj\Debug\pooPokemonAPP.pdb

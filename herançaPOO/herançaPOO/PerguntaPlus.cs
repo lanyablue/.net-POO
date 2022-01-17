@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace herançaPOO
 {
-    public class PerguntaPlus:Pergunta
+    public class PerguntaPlus:Pergunta //herdou a classe pergunta
     {
-        public PerguntaPlus():base()
+        public PerguntaPlus():base()    //o contrutor exercuta primeiro o contrutor da classe mãe
         {
 
-            //this.testC = " ";  // quem herda consegue utilizar os dados protected
+            //this.testC = " "; quem herda consegue utilizar os dados protected
+            //this.testA = " "; 
+            //this.testB = " "; não consegue acessar o privado atraves de herança
+
             this.Dica = " ";
         }
 
-        public PerguntaPlus(String texto, String resposta, String dica):base(texto, resposta)
+        public PerguntaPlus(String texto, String resposta, String dica):base(texto, resposta) //contrutor da classe base
         {
 
             this.Dica = dica;
