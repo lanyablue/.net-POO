@@ -14,9 +14,9 @@ namespace pooPokemonAPP
         }
 
 
-        private List<Pokemon> pokemons;
+        private List<PokemonPlus> pokemons;
 
-        public List<Pokemon> Pokemons
+        public List<PokemonPlus> Pokemons
         {
             get { return this.pokemons; }
         }
@@ -25,45 +25,42 @@ namespace pooPokemonAPP
         private void inicilizarLista()
         {
             // Instanciar a lista
-            this.pokemons = new List<Pokemon>();
+            this.pokemons = new List<PokemonPlus>();
 
-            Pokemon p = new Pokemon("Bulbasauro", "Tipo Planta");
+            PokemonPlus p = new PokemonPlus("Bulbasauro", "Tipo Planta", 20);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Charmander", "Tipo Fogo");
+            p = new PokemonPlus("Charmander", "Tipo Fogo", 60);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Mew", "Tipo lendario psiquico");
+            p = new PokemonPlus("jigglypuff", "Tipo Fada", 100);
             this.pokemons.Add(p);
 
-            p = new Pokemon("jigglypuff", "Tipo Fada");
+            p = new PokemonPlus("Eevee", "Tipo Normal", 30);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Eevee", "Tipo Normal");
+            p = new PokemonPlus("Vaporeon", "Tipo Água", 75);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Vaporeon", "Tipo Água");
+            p = new PokemonPlus("Espeon", "Tipo Psiquico", 95);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Espeon", "Tipo Psiquico");
+            p = new PokemonPlus("Umbreon", "Tipo Dark", 100);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Umbreon", "Tipo Dark");
+            p = new PokemonPlus("Sylveon", "Tipo Fada", 65);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Sylveon", "Tipo Fada");
+            p = new PokemonPlus("Jolteon", "Tipo Eletrico", 90);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Jolteon", "Tipo Eletrico");
+            p = new PokemonPlus("Flareon", "Tipo Fogo", 70);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Flareon", "Tipo Fogo");
+            p = new PokemonPlus("Leafeon", "Tipo Folha", 80);
             this.pokemons.Add(p);
 
-            p = new Pokemon("Leafeon", "Tipo Folha");
-            this.pokemons.Add(p);
-
-            p = new Pokemon("Glaceon", "Tipo Gelo");
+            p = new PokemonPlus("Glaceon", "Tipo Gelo", 55);
             this.pokemons.Add(p);
         }
 
@@ -72,6 +69,8 @@ namespace pooPokemonAPP
         {
             for (int i = 0; i < this.Pokemons.Count; i++)
             {
+                Console.WriteLine("Código do pokémon: " + i);
+                //this.Pokemons[i].ExibirDadosPokemon();
                 Pokemon p = this.Pokemons[i];
                 p.ExibirDadosPokemon();
 

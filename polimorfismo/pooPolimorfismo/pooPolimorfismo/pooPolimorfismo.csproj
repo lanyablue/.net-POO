@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C62139D-4F37-430A-ACBA-F383C1C9A2D8}</ProjectGuid>
+    <ProjectGuid>{AC87D06D-A3D9-4C9C-876E-737C9FCC09F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>pooPokemonAPP</RootNamespace>
-    <AssemblyName>pooPokemonAPP</AssemblyName>
+    <RootNamespace>pooPolimorfismo</RootNamespace>
+    <AssemblyName>pooPolimorfismo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pokedex.cs" />
-    <Compile Include="Pokemon.cs" />
-    <Compile Include="PokemonPlus.cs" />
+    <Compile Include="Formas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quadrado.cs" />
+    <Compile Include="Triangulo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

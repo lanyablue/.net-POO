@@ -1,0 +1,8 @@
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\bin\Debug\pooPolimorfismo.exe.config
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\bin\Debug\pooPolimorfismo.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\bin\Debug\pooPolimorfismo.pdb
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.csproj.AssemblyReference.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.csproj.CoreCompileInputs.cache
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.exe
+D:\Users\Ecogotica\Documents\estudos\Poo .net\polimorfismo\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.pdb
